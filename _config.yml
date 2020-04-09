@@ -30,7 +30,7 @@ twitter_username: krishcdbry
 github_username:  krishcdbry
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 
